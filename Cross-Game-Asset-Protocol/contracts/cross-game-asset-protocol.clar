@@ -2,7 +2,8 @@
 ;; A protocol for managing and transferring game assets across multiple games
 ;; Version: 1.0.0
 ;; Author: Ajiboh3
-
+;; This contract enables seamless asset interoperability between games
+;; Built on Stacks blockchain for maximum security and decentralization
 ;; Error codes
 (define-constant ERR-NOT-AUTHORIZED (err u1001))
 (define-constant ERR-ASSET-NOT-FOUND (err u1002))
